@@ -16,6 +16,5 @@
     <h4>Apply method</h4>
     <p>do bind `this` with `thisArg` and call the function</p>
     <p>Take argument from original function under array data-type</p>
-    
     </li>
 </ul>
