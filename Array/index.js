@@ -38,5 +38,6 @@ var languages = ['Javascript', 'PHP', 'Ruby']
 // console.log(languages.concat(languages2));
 
 //9. Slicing
-console.log(languages.slice(1,2));
-console.log(languages.slice(0));
+// console.log(languages.slice(1,2));
+// console.log(languages.slice(0));
+
