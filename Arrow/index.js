@@ -5,7 +5,7 @@
 const logger = (log) => {
     console.log(log);
 }
-
+//there is no binding of this keyword
 logger('Bach Phung')
 
 const course = {
